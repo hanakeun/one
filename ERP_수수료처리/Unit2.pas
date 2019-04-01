@@ -20,9 +20,6 @@ type
       Shift: TShiftState);
     procedure f2btnExcelClick(Sender: TObject);
     procedure FormShow(Sender: TObject);
-//dlqjsdps durle kdmaxmxmxmxmdkamkmdslkmf
-//gksrmffh TmslRk ahfmrpTwl dlrjf gotjrgkrh dlTekaus sjsms gkfdlfdl rjqsk djqtsmsrjtdlek.
-//akwwl?
 
   private
     { Private declarations }
