@@ -16,6 +16,9 @@ uses
   cxGrid, cxClasses;
 {$I coop_data.inc}
 
+
+//시작하자마자 수정한 여기가 보일걸~~~~~~~~~~~~
+//캬캬 20190401yik
 type
   TForm1 = class(TForm)
     ToolBar1: TToolBar;
